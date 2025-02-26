@@ -1,0 +1,4 @@
+El flujo de trabajo basico con Git consiste en: 
+Hacer cambios en el repositorio
+Añadir los cambios a la zona de intermcambio temporal[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[[[Cca[[C[C[Cmbio[C[C[C[C[C[C[ temporal
+HAcer un commit de los cambios[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
